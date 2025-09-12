@@ -169,12 +169,12 @@ using namespace std;
 // }
 
 // Problem 22
-int main()
-{
-    double x, y;
-    cin >> x >> y;
+// int main()
+// {
+//     double x, y;
+//     cin >> x >> y;
 
-    cout << (y * 30.48 > x) << endl;
+//     cout << (y * 30.48 > x) << endl;
 
-    return 0;
-}
+//     return 0;
+// }
